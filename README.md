@@ -16,7 +16,7 @@ Custom 3D-printed desktop pick-and-place robot arm built by Arturo Rodriguez (So
 - **Chris** – 3D modeling & printing, mechanical assembly, Arduino firmware, wiring & calibration
 
 ## Current Status
-- [ ] Parts ordered
+- [x] Parts ordered
 - [ ] Mechanical design / first prints
 - [ ] Basic servo control firmware
 - [ ] Python serial communication
